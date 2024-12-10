@@ -33,7 +33,7 @@ An easy-to-use expense tracking web application built with **React + Vite** and 
 
 The application is deployed on Netlify. Click the badge below to view the latest build:
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8a1e0891-820d-4b1b-9c37-2a0a34c37c26/deploy-status)](https://app.netlify.com/sites/expensetracker-sp/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8a1e0891-820d-4b1b-9c37-2a0a34c37c26/deploy-status)](https://expensetracker-sp.netlify.app/)
 
 ---
 
